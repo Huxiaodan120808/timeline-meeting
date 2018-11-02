@@ -20,10 +20,10 @@
 </template>
 
 <script>
-import TimeBlock from './timeBlockTwoLine'
+// import TimeBlock from './timeBlockTwoLine'
 // import TimeBlock from './timeBlockSingle'
 // import TimeBlock from './timeBlockBlock'
-// import TimeBlock from './timeBlockBlock2'
+import TimeBlock from './timeBlockBlock2'
 export default {
   name: 'HelloWorld',
   data () {
